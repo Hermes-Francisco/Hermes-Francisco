@@ -1,13 +1,6 @@
-<table width="100%">
-    <tr>
-        <td align='center'><img src='logo.png' /></td>
-    </tr>
-    <tr>
-        <td align='center'>
-            <h1>Hermes Francisco</h1>
-        </td>
-    </tr>
-</table>
+<p align="center" >
+    <img src='logo.png' />
+</p>
 
 # Olá
 
